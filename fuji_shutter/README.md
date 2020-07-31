@@ -7,7 +7,7 @@ When powered up, user selects a time interval and switches the module to `workin
 Needs JJC RR-80 cable to interface miniUSB with 2.5mm jack. Alternatively, the cable can be soldered at home using schema available on [doc-diy: Camera remote release pinout list](http://www.doc-diy.net/photo/remote_pinout/index.php)
 
 # Schema
-![Electronics schema](./schema.svg)
+<p align="center"><img src="schema.svg" width="600px" alt="Electronics schema"></p>
 
 ## Power
 Can be powered from 9V battery or external power source (like powerbank). `S1` switch is selects which is used. Arduino `RAW` input is used as a voltage regulator allowing power from 3.4 V to 12 V.
