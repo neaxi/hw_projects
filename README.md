@@ -1,0 +1,2 @@
+Repo to hold snippets and configuration of my various hardware projects.  
+Do not blindly copy and paste without full understanding of the snippet as some of the solutions are closely tailored to specific setup.
